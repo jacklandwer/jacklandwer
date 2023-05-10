@@ -1,6 +1,5 @@
 ### Signature Work README
 
-<!--
 Signature Work
 
 Project 1: PersonalWebsite
@@ -21,4 +20,3 @@ Project 3: cg-illumination
 - I chose this project because I learned a lot about how animations work and are made. I thought this was a very interesting project, and it has made me think about doing more graphics-related coding.
 
 
--->
